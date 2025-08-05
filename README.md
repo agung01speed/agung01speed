@@ -1,5 +1,11 @@
-## Hi there 👋
+<h1 align="center"> Hai, nama saya Agung </h1>
+<p align="center"> ppppp </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,php,discord,github,vscode" />
+  </a>
+</p>
 <!--
 **agung01speed/agung01speed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
